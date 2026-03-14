@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/catupik/homework-front-sprint2.git/static/css/main.452b1699.css",
+    "main.js": "/catupik/homework-front-sprint2.git/static/js/main.ca20c4fb.js",
+    "static/js/887.93528110.chunk.js": "/catupik/homework-front-sprint2.git/static/js/887.93528110.chunk.js",
+    "index.html": "/catupik/homework-front-sprint2.git/index.html",
+    "main.452b1699.css.map": "/catupik/homework-front-sprint2.git/static/css/main.452b1699.css.map",
+    "main.ca20c4fb.js.map": "/catupik/homework-front-sprint2.git/static/js/main.ca20c4fb.js.map",
+    "887.93528110.chunk.js.map": "/catupik/homework-front-sprint2.git/static/js/887.93528110.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.452b1699.css",
+    "static/js/main.ca20c4fb.js"
+  ]
+}
